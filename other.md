@@ -1,4 +1,4 @@
-###### [pikakid98.me](https://pikakid98.me) / [Git](https://git.pikakid98.me) / Other
+﻿###### [Main](https://pikakid98.github.io) / [Git](https://git-pikakid98.github.io) / Other
 <h1></h1>
 
-📁 [Pika's Greenscreen Repo](https://git.pikakid98.me/other/pikas-greenscreen-repo)
+📁 [Pika's Greenscreen Repo](https://git-pikakid98.github.io/other/pikas-greenscreen-repo)

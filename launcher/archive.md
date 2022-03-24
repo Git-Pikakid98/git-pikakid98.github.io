@@ -1,4 +1,4 @@
-###### [pikakid98.me](https://pikakid98.me) / [Git](https://git.pikakid98.me) / [Launcher](https://git.pikakid98.me/launcher) / Archive
+﻿###### [Main](https://pikakid98.github.io) / [Git](https://git-pikakid98.github.io) / [Launcher](https://git-pikakid98.github.io/launcher) / Archive
 <h1></h1>
 
 📂 PLUpdater

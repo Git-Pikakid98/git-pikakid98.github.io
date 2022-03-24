@@ -1,10 +1,10 @@
-###### [pikakid98.me](https://pikakid98.me) / Git
+﻿###### [Main](https://pikakid98.github.io) / Git
 <h1></h1>
 
-Want to keep my dumb shit up to date? [Download the Pikakid98 Launcher](https://git.pikakid98.me/launcher)
+Want to keep my dumb shit up to date? [Download the Pikakid98 Launcher](https://git-pikakid98.github.io/launcher)
 
-📁 [Games](https://git.pikakid98.me/games)
+📁 [Games](https://git-pikakid98.github.io/games)
 \
-📁 [Apps/Software](https://git.pikakid98.me/apps)
+📁 [Apps/Software](https://git-pikakid98.github.io/apps)
 \
-📁 [Other](https://git.pikakid98.me/other)
+📁 [Other](https://git-pikakid98.github.io/other)
