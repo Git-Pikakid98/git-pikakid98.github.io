@@ -11,4 +11,4 @@
 \
 📁 [The Legend Of Zelda: Sword Of Destiny](https://git-pikakid98.github.io/games/the-legend-of-zelda-sword-of-destiny)
 \
-📁 [Cave Of The Dead Remastered](https://git-pikakid98.github.io/games/cave-of-the-dead-remastered)
+📁 [Cave Of The Dead: Remastered](https://git-pikakid98.github.io/games/cave-of-the-dead-remastered)
