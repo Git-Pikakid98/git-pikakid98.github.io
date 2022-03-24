@@ -11,6 +11,8 @@
 \
 📁 [v0.3](https://git-pikakid98.github.io/launcher/launcher/v0.3)
 \
+📁 [v0.2.1](https://git-pikakid98.github.io/launcher/launcher/v0.2.2)
+\
 📁 [v0.2.1](https://git-pikakid98.github.io/launcher/launcher/v0.2.1)
 \
 📁 [v0.2](https://git-pikakid98.github.io/launcher/launcher/v0.2)
