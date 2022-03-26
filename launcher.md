@@ -3,4 +3,4 @@
 
 📂 [PLUpdater](https://git-pikakid98.github.io/launcher/plupdater) (Recommended)
 \
-📁 [Pikakid98 Launcher](https://git-pikakid98.github.io/launcher/launcher)
+📁 [Pikakid98 Launcher](https://git-pikakid98.github.io/launcher/pikakid98-launcher)
