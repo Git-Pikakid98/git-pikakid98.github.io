@@ -1,7 +1,9 @@
 ﻿###### [Main](https://pikakid98.github.io) / [Git](https://git-pikakid98.github.io) / [Launcher](https://git-pikakid98.github.io/launcher) / Pikakid98 Launcher
 <h1></h1>
 
-📁 [v0.5.1.1](https://git-pikakid98.github.io/launcher/pikakid98-launcher/v0.5.1.1) (Latest)
+📁 [v0.5.2](https://git-pikakid98.github.io/launcher/pikakid98-launcher/v0.5.2) (Latest)
+\
+📁 [v0.5.1.1](https://git-pikakid98.github.io/launcher/pikakid98-launcher/v0.5.1.1)
 \
 📁 [v0.5.1](https://git-pikakid98.github.io/launcher/pikakid98-launcher/v0.5.1)
 \
