@@ -37,5 +37,5 @@
 \
 ┃───📄 [Cool Cat - Dere He Is (Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Cool.Cat.-.Dere.He.Is.Greenscreen.mp4)
 \
-┃───📄 [Sr Pelo - Cirno Dance (Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Sr.Pelo.-.Cirno.Dance.Greenscreen.mp4)
+┃───📄 [Sr Pelo - Cirno Dance (Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Sr.Pelo.-.Cirno.Dance.Greenscreen.v2.mp4) (v2: Fixed a stray pixel)
 
