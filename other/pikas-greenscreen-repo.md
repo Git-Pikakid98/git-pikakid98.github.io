@@ -36,4 +36,6 @@
 ┃───📄 [Not Funny. Didn't Laugh - Demotivational Poster Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Not.Funny.Didn.t.Laugh.Demotivational.Poster.Greenscreen.mp4)
 \
 ┃───📄 [Cool Cat - Dere He Is (Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Cool.Cat.-.Dere.He.Is.Greenscreen.mp4)
+\
+┃───📄 [Sr Pelo - Cirno Dance (Greenscreen)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/gs/Sr.Pelo.-.Cirno.Dance.Greenscreen.mp4)
 
