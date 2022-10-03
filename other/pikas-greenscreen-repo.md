@@ -3,7 +3,7 @@
 
 📄 [Download All](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/All/All.7z) (Last Updated: 17/7/2022 @ 2:27 PM)
 \
-📄 [Download MPC-BE Portable v1.6.3 (Optional)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/All/MPC-BE.7z)
+📄 [Download MPC-BE v1.6.3 (Optional)](https://github.com/Git-Pikakid98/pikas-greenscreen-repo/releases/download/All/MPC-BE.7z)
 
 📂 Files
 \
