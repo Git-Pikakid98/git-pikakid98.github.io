@@ -1,7 +1,7 @@
 ﻿###### [Main](https://pikakid98.github.io) / [Git](https://git-pikakid98.github.io) / [Launcher](https://git-pikakid98.github.io/launcher) / Pikakid98 Launcher
 <h1></h1>
 
-📁 [Download Latest Unstable Build (Not Recommended)](https://github.com/Git-Pikakid98/pikakid98-launcher/releases/download/Dev_28-10-2022/Pikakid98.Launcher.exe)
+📁 [Download Latest Unstable Build (Not Recommended)](https://github.com/Git-Pikakid98/pikakid98-launcher/releases/download/Dev_28-10-2022/Pikakid98.Launcher.exe) `Dev_28-10-2022`
 
 📁 [v0.6.1](https://git-pikakid98.github.io/launcher/pikakid98-launcher/v0.6.1) (Latest)
 \
