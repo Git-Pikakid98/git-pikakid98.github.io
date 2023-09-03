@@ -3,7 +3,7 @@
 
 📂 Files
 \
-┃───📄 [Download](https://github.com/Git-Pikakid98/decluttertube/archive/refs/tags/v1.0.zip)
+┃───📄 [Download](https://github.com/Git-Pikakid98/decluttertube/archive/refs/heads/main.zip)
 
 📂 Raw Filters
 \
