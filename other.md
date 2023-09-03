@@ -4,3 +4,5 @@
 📁 [Pika's Greenscreen Repo](https://git-pikakid98.github.io/other/pikas-greenscreen-repo)
 \
 📁 [Pikakid98 Launcher: Special Edition](https://git-pikakid98.github.io/other/pikakid98-launcher-se)
+\
+📁 [DeclutterTube](https://git-pikakid98.github.io/other/decluttertube)
