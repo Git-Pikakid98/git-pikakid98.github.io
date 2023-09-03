@@ -7,4 +7,4 @@
 
 📂 Raw Filters
 \
-┃───📄 [Pika's DeclutterTube.txt](https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's%20DeclutterTube.txt?token=GHSAT0AAAAAACHDFI6XV6X24O4IL373OV5UZHUYNPA)
+┃───📄 [Pika's DeclutterTube.txt](https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's%20DeclutterTube.txt)
