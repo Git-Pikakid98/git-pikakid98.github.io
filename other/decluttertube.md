@@ -8,3 +8,5 @@
 📂 Raw Filters
 \
 ┃───📄 [Pika's DeclutterTube.txt](https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's%20DeclutterTube.txt)
+\
+Or copy `https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's DeclutterTube.txt` and paste it into the "Import" section
