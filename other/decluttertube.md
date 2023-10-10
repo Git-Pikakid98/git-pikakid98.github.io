@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NobodyCaresIf
 https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/WhatDoAnyOfTheseDo.txt
 \
 https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/GiveEmAShot.txt
+\
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/IDontNeedNoHelp.txt
 
 `Copy the above link(s) into uBlock Origin's "Import" section. If you can't find the import section, look up "how to add custom filter lists to uBlock Origin"`
 \
