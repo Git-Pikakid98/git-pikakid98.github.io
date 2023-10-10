@@ -7,6 +7,7 @@
 
 📂 Raw Filters
 \
-┃───📄 [Pika's DeclutterTube.txt](https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's%20DeclutterTube.txt)
+[https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's DeclutterTube.txt](https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's%20DeclutterTube.txt)
 \
-Or copy `https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/Pika's DeclutterTube.txt` and paste it into the "Import" section
+`Copy the above link(s) into uBlock Origin's "Import" section. If you can't find the import section, look up "how to add custom filter lists to uBlock Origin"`
+
